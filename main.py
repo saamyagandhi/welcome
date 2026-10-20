@@ -1,0 +1,5 @@
+print("I study for a long time today")
+print(6)
+print("my age is", 15)
+print("i love chipotle \n")
+print("welcome to coding", end= ".")
